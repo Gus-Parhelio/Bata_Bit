@@ -324,3 +324,33 @@ main{
     line-height: 1.8rem;
     color: #808080;
 }
+.product-detail--cards .eye{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(../assets/eye\ 1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-detail--cards .dollar{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(../assets/dollar-sign-1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-detail--cards .check{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(../assets/check-circle.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
